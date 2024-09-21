@@ -1,6 +1,6 @@
 const {graphql, setupWorker} = window.MockServiceWorker
 
-const allPokemon = {
+const allPokemon = { 
   pikachu: {
     id: 'UG9rZW1vbjowMjU=',
     number: '025',
